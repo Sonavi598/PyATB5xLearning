@@ -1,30 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7a6865-35de-445c-96e7-15104ee7a19f" name="Changes" comment="" />
+    <list default="true" id="ab7a6865-35de-445c-96e7-15104ee7a19f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab004_keywords.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab004_keywords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab005_Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab005_Variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab007_variables_identifires_rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab007_variables_identifires_rules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab008_GIThub_Push.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab008_GIThub_Push.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab012_Math_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifire_variables/Lab012_Math_function.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sonavi598"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sonavi598/PyATB5xLearning.git",
+    "accountId": "30481683-710c-4840-b51b-c52a1011c2f3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2oZaSkO3anXh16aS92c2Qx3KdGN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab001_Python_HelloWorld.executor": "Run",
+    "Python.Lab002_Python_Basics.executor": "Run",
+    "Python.Lab003_Python_Basics.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab007_variables_identifires_rules.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012_Math_function.executor": "Run",
+    "Python.Set001.executor": "Run",
+    "Python.Tuple001.executor": "Run",
+    "Python.Tuple002_Tuple_Updation.executor": "Run",
+    "Python.dict001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Lab001_Python_HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab001_Python_HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,5 +126,16 @@
       <updated>1731079554864</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Python_Self_Practice/Basic_python/Nov_13_2024/Tuple002_Tuple_Updation.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
