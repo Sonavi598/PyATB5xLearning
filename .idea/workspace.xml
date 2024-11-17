@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7a6865-35de-445c-96e7-15104ee7a19f" name="Changes" comment="17 Nov 2024">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab030_Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ab7a6865-35de-445c-96e7-15104ee7a19f" name="Changes" comment="17 Nov 2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +65,7 @@
     "Python.Lab027_Excape_sequence.executor": "Run",
     "Python.Lab028_excape_sequence.executor": "Run",
     "Python.Lab029_Task1.executor": "Run",
+    "Python.Lab030_Task2.executor": "Run",
     "Python.Set001.executor": "Run",
     "Python.Tuple001.executor": "Run",
     "Python.Tuple002_Tuple_Updation.executor": "Run",
@@ -141,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731819858796</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="17 Nov 2024">
+      <option name="closed" value="true" />
+      <created>1731823657876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731823657876</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
